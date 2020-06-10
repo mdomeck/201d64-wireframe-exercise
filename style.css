@@ -53,7 +53,7 @@ main >ul li {
 }
 
 main ul li:nth-child(3n) {
-  margin-right: 0;
+  margin-right: 0px;
 }
 
 article {
